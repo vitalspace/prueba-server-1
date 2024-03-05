@@ -8,7 +8,7 @@ cd prueba-server-1
 
 npm instgall
 
-bpm run dev
+npm run dev
 
 ```
 
